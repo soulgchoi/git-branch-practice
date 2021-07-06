@@ -12,3 +12,8 @@
 - [소롱](./soulg.md)
 - [티케](./Tyche.md)
 - [피카](./pika96.md)
+
+## 담당 코치
+
+- 죽여줘 [임동준](https://github.com/imakerjun)
+
