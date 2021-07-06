@@ -6,4 +6,9 @@
 
 ### 팀원 소개
 
-[크로플](./croffle.md)
+- [크로플](./croffle.md)
+- [나봄](./nabom.md)
+- [서니](./sunny.md)
+- [소롱](./soulg.md)
+- [티케](./Tyche.md)
+- [피카](./pika96.md)
